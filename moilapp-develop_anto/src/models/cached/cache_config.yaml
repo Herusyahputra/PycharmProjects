@@ -1,0 +1,33 @@
+Cam_type: opencv_usb_cam
+Media_path: /home/heru-demo/PycharmProjects/moilapp-develop_anto/example_source/image4_params183_Cam4.jpg
+Mode_1:
+  alpha: 90
+  beta: 180
+  coord:
+  - 0
+  - 870
+  zoom: 4
+Mode_2:
+  coord:
+  - null
+  - null
+  pitch: 0
+  roll: 0
+  yaw: 0
+  zoom: 4
+Pano_car:
+  alpha: 41
+  beta: -4
+  coord:
+  - 1272
+  - 907
+  crop_bottom: 1.0
+  crop_left: 0.0
+  crop_right: 0.938
+  crop_top: 0.0
+Pano_tube:
+  alpha_max: 110
+  alpha_min: 8
+  crop_bottom: 1
+  crop_top: 0
+Parameter_name: entaniya_vr220_3

@@ -1,0 +1,17 @@
+{
+  "cameraName": "t265_b_848x800",
+  "cameraSensorWidth": 1.4,
+  "cameraSensorHeight": 1.4,
+  "iCx": 433,
+  "iCy": 401,
+  "ratio": 1,
+  "imageWidth": 848,
+  "imageHeight": 800,
+  "calibrationRatio": 1,
+  "parameter0": 0,
+  "parameter1": 0,
+  "parameter2": -28.13,
+  "parameter3": 44.686,
+  "parameter4": -16.955,
+  "parameter5": 287.512
+}
