@@ -1,0 +1,105 @@
+Bird_View:
+  Gradient_mode: O
+  Image:
+    Image_1:
+      Parameter_name: null
+      Source: null
+      alpha: 0.0
+      beta: 0.0
+      crop_bottom: 0
+      crop_left: 0
+      crop_right: 0
+      crop_top: 0
+      rotate: 0.0
+      x_axis: 0
+      y_axis: 0
+      zoom: 7.0
+    Image_2:
+      Parameter_name: null
+      Source: null
+      alpha: 0.0
+      beta: 0.0
+      crop_bottom: 0
+      crop_left: 0
+      crop_right: 0
+      crop_top: 0
+      rotate: 0.0
+      x_axis: 0
+      y_axis: 0
+      zoom: 7.0
+    Image_3:
+      Parameter_name: null
+      Source: null
+      alpha: 0.0
+      beta: 0.0
+      crop_bottom: 0
+      crop_left: 0
+      crop_right: 0
+      crop_top: 0
+      rotate: 0.0
+      x_axis: 0
+      y_axis: 0
+      zoom: 7.0
+    Image_4:
+      Parameter_name: null
+      Source: null
+      alpha: 0.0
+      beta: 0.0
+      crop_bottom: 0
+      crop_left: 0
+      crop_right: 0
+      crop_top: 0
+      rotate: 0.0
+      x_axis: 0
+      y_axis: 0
+      zoom: 7.0
+  Mode_calib: null
+Dash_Camera:
+  Brightness: null
+  Contrast: null
+  Parameter_name: null
+  Rotate: 0.0
+  Source: null
+  View:
+    Dash_driver_view:
+      alpha: 0.0
+      alpha_max: 110
+      beta: 0.0
+      crop_bottom: 1.0
+      crop_left: 0.0
+      crop_right: 1.0
+      crop_top: 0.0
+    Dash_front_view:
+      alpha: 0.0
+      alpha_max: 110
+      beta: 0.0
+      crop_bottom: 1.0
+      crop_left: 0.0
+      crop_right: 1.0
+      crop_top: 0.0
+    For comparison View:
+      alpha: 0.0
+      beta: 0.0
+      roll: 0.0
+      zoom: 4.0
+    Left Window:
+      alpha: 0.0
+      beta: 0.0
+      roll: 0.0
+      zoom: 4.0
+    Right Window:
+      alpha: 0.0
+      beta: 0.0
+      roll: 0.0
+      zoom: 4.0
+    Second Driver View:
+      alpha: 0.0
+      beta: 0.0
+      roll: 0.0
+      zoom: 4.0
+    Steering View:
+      alpha: 0.0
+      beta: 0.0
+      roll: 0.0
+      zoom: 4.0
+Project_name: null

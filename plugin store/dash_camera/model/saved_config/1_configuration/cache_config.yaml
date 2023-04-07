@@ -1,0 +1,105 @@
+Bird_View:
+  Gradient_mode: O
+  Image:
+    Image_1:
+      Parameter_name: entaniya_vr220_7
+      Source: /home/anto/github/moilapp_new/example_source/videos/image_birds/front.jpg
+      alpha: 0.0
+      beta: 0.0
+      crop_bottom: 0
+      crop_left: 0
+      crop_right: 0
+      crop_top: 0
+      rotate: 0.0
+      x_axis: 0
+      y_axis: 0
+      zoom: 7.0
+    Image_2:
+      Parameter_name: entaniya_vr220_8
+      Source: /home/anto/github/moilapp_new/example_source/videos/image_birds/left.jpg
+      alpha: 0.0
+      beta: 0.0
+      crop_bottom: 0
+      crop_left: 0
+      crop_right: 0
+      crop_top: 0
+      rotate: 0.0
+      x_axis: 0
+      y_axis: 0
+      zoom: 7.0
+    Image_3:
+      Parameter_name: entaniya_vr220_11
+      Source: /home/anto/github/moilapp_new/example_source/videos/image_birds/right.jpg
+      alpha: 0.0
+      beta: 0.0
+      crop_bottom: 0
+      crop_left: 0
+      crop_right: 0
+      crop_top: 0
+      rotate: 0.0
+      x_axis: 0
+      y_axis: 0
+      zoom: 7.0
+    Image_4:
+      Parameter_name: entaniya_vr220_12
+      Source: /home/anto/github/moilapp_new/example_source/videos/image_birds/rear.jpg
+      alpha: 0.0
+      beta: 0.0
+      crop_bottom: 0
+      crop_left: 0
+      crop_right: 0
+      crop_top: 0
+      rotate: 0.0
+      x_axis: 0
+      y_axis: 0
+      zoom: 7.0
+  Mode_calib: null
+Dash_Camera:
+  Brightness: null
+  Contrast: null
+  Parameter_name: entaniya_vr220_12
+  Rotate: -0.6999999999999996
+  Source: /home/heru-demo/PycharmProjects/moilapp/example_source/dash_camera_ori.png
+  View:
+    Dash_driver_view:
+      alpha: 9.400000000000006
+      alpha_max: 110
+      beta: -1.0
+      crop_bottom: 1.0
+      crop_left: 0.03
+      crop_right: 0.97
+      crop_top: 0.0
+    Dash_front_view:
+      alpha: 150.0
+      alpha_max: 110
+      beta: -4.999999999999997
+      crop_bottom: 1.0
+      crop_left: 0.01
+      crop_right: 1.0
+      crop_top: 0.07
+    For comparison View:
+      alpha: 85.0
+      beta: 1.7000000000000004
+      roll: 0.0
+      zoom: 4.0
+    Left Window:
+      alpha: 0.0
+      beta: -80.1
+      roll: 0.0
+      zoom: 4.0
+    Right Window:
+      alpha: 0.0
+      beta: 80.0
+      roll: 0.0
+      zoom: 4.0
+    Second Driver View:
+      alpha: -27.599999999999987
+      beta: 72.30000000000003
+      roll: 0.2
+      zoom: 4.0
+    Steering View:
+      alpha: -33.00000000000001
+      beta: -61.10000000000001
+      roll: 0.0
+      zoom: 4.0
+Project_name: 1_configuration
